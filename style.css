@@ -1,0 +1,207 @@
+.container{
+display:flex;
+flex-wrap:wrap;
+}
+.header
+{
+background-image:url("laptop.jpg") ;
+background-repeat: no-repeat;	
+height: 650px;
+width:100%;
+}
+.u
+{
+	position:absolute;
+	top:-9%;
+	left:-5%;
+	height:40%;
+	width:45%;
+}
+.yellow
+{
+	height:230px;
+	width:17%;
+	background-color:#EFFD5F ;
+	position: relative;
+    left: 66%;
+    top:0;
+}
+.white
+{
+	position: relative;
+	top:26%;
+	right: 28%;
+	color: white;
+    letter-spacing:3;
+    font-weight: bolder;
+
+}
+.squar
+{
+	height: 30%;
+	width: 30%;
+	position: absolute;
+	left: 30%;
+	bottom:50%;
+}
+.inn
+{
+	letter-spacing:35;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	bottom: 52%;
+	left: 18%;
+	}
+.our
+{
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	bottom: 49%;
+	left: 18%;
+	letter-spacing: 8;
+}
+.here{
+	color: #EFFD5F;
+	font-size: 130;
+	font-weight: bold;
+	padding-left: 5%;
+}
+.horizontal-row
+{
+	position: relative;
+	top:-2%;
+	left: 5%;
+	width: 79%;
+	border-bottom: 5px solid black;
+}
+.or
+{
+padding-left: 5%;
+}
+.sky
+{
+	color: deepskyblue;
+	position: absolute;
+	top: 78.8%;
+	left:15%;
+}
+.para
+{
+padding-left: 5%;
+
+}
+.plan
+{
+	position: absolute;
+	top: 83.6%;
+	right: 19%;
+}
+.ro
+{
+	position: absolute;
+	top:78.5%;
+	right: 45%;
+}
+.rem
+{
+	color: deepskyblue;
+	position: absolute;
+	top: 78.6%;
+	right:32.5%;
+}
+.material-icons
+{
+position:absolute;
+bottom: -5%;
+left: 6%;
+
+}
+.plc
+{
+	position: absolute;
+	bottom: -5%;
+	left: 6%;
+}
+.paw
+{
+	position: absolute;
+	bottom: -5.6%;
+	left: 10%;
+}
+.call
+{
+	position: absolute;
+	bottom: -5%;
+	left: 40%;
+}
+.mail
+{
+	position: absolute;
+	bottom: -9%;
+	left:4% ;
+}
+.gm
+{
+	position: absolute;
+	bottom: -9.6%;
+	left:10%;
+}
+.lack{
+    position: absolute;
+	bottom: -5.5%;
+	left:45%;
+}
+.pub
+{
+	position: absolute;
+	bottom: -9%;
+	left: 40%;
+}
+.world
+{
+	position: absolute;
+	bottom: -9.5%;
+	left: 45%;
+}
+.blank
+{
+	position: absolute;
+	top: 103%;
+	left: 1%;
+	color:#EFFD5F;
+	background-color: #EFFD5F;
+	height:80px;
+	width:45px;
+}
+.backcolor
+{
+	background-color: white;
+}
+.last
+{
+	background-color: #EFFD5F;
+	color:#EFFD5F;
+	position: absolute;
+	top:103%;
+	left:88%;
+	height:80px;
+	width:45px;
+}
+.light
+{
+	position:absolute;
+	top:101.5%;
+	left:79%;
+	height:5%;
+	width:5%;
+}
+.the
+{
+	position:absolute;
+	top:100.5%;
+	left:68%;
+	height:8%;
+	width:10%;
+}
